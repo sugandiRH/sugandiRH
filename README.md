@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruwani Sugandika</h1>
 <h3 align="center">Undergraduate Student of Software Engineer</h3>
 
-- 🌱 I’m currently learning **Higher Diploma In Software Engineer**
+- 🌱 Currently enrolled in a  **BSc Software Engineering (Top-up) program**
 
 - 📝 I regularly write articles on [https://medium.com/@sugandikarh](https://medium.com/@sugandikarh)
 
