@@ -29,15 +29,6 @@ Features:
 - Chatbot integration using GPT-4
 - Business insight recommendations
 
-Tech Stack:
-- Laravel
-- React
-- PostgreSQL
-- Python
-- FastAPI
-- OpenAI API
-
----
 
 ## 📫 Connect With Me
 
