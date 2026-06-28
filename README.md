@@ -8,12 +8,12 @@ Software Engineering Undergraduate | Full Stack Developer | AI & BI Enthusiast
 
 ## 👩‍💻 About Me
 
-- 🎓 Undergraduate Software Engineering student
-- 💼 Experienced in Full Stack Web Development
-- 🔍 Interested in Artificial Intelligence, Business Intelligence, and Data Visualization
-- 🚀 Currently developing an **AI-Powered Business Intelligence Web Application**
-- 📚 Learning advanced backend architecture, NLP integration, and scalable systems
-- ✍️ I write technical articles on Medium
+🎓 Graduate Software Engineering student
+💼 Experienced in Full Stack Web Development
+🔍 Interested in Artificial Intelligence, Business Intelligence, and Data Visualization
+🚀 Currently developing an **AI-Powered Business Intelligence Web Application**
+📚 Learning advanced backend architecture, NLP integration, and scalable systems
+✍️ I write technical articles on Medium
 
 ---
 
