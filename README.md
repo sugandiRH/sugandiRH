@@ -1,37 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ruwani Sugandika</h1>
+<h1 align="center">Hi, I'm Ruwani Sugandika</h1>
 
 <h3 align="center">
-Software Engineering Undergraduate | Full Stack Developer | AI & BI Enthusiast
+Software Engineering Graduate | Backend & Full-Stack Developer | AI & Cloud Enthusiast
 </h3>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-🎓 Graduate Software Engineering student
-💼 Experienced in Full Stack Web Development
-🔍 Interested in Artificial Intelligence, Business Intelligence, and Data Visualization
-🚀 Currently developing an **AI-Powered Business Intelligence Web Application**
-📚 Learning advanced backend architecture, NLP integration, and scalable systems
-✍️ I write technical articles on Medium
+* Software Engineering Graduate from the University of Bedfordshire (SLIIT City Uni)
+* Former Trainee Associate Software Engineer
+* Passionate about Backend Development and Full-Stack Engineering
+* Currently learning Java Spring Boot, Microservices, and AWS Cloud
+* Building **SmartRetail** – A Microservices-Based Retail Management System using Java 17, Spring Boot, MySQL, and Docker
+* Interested in REST APIs, Cloud Technologies, and AI-powered Applications
 
----
+## Tech Stack
 
-## 🚀 Current Project
+**Languages:** Java, PHP, Python, JavaScript
 
-### AI-Powered Business Intelligence Web Application
+**Frameworks:** Spring Boot, Laravel, React, FastAPI
 
-Features:
-- AI-powered dashboard generation
-- Natural Language to SQL (NL2SQL)
-- Automated data cleaning pipeline
-- KPI visualization
-- Chatbot integration using GPT-4
-- Business insight recommendations
+**Databases:** MySQL, PostgreSQL, SQLite
 
+**Tools:** Git, GitHub, Bitbucket, Postman, Docker, Jira
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 📧 Email: **sugandikarh@gmail.com**
-- ✍️ Medium: https://medium.com/@sugandikarh
-
+* Email: **[sugandikarh@gmail.com](mailto:sugandikarh@gmail.com)**
+* LinkedIn: https://linkedin.com/in/ruwani-sugandika
+* Medium: https://medium.com/@sugandikarh
